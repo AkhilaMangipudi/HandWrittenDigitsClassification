@@ -1,4 +1,4 @@
-# HandWrittenDigitsClassification
+# HandWritten Digits Classification
 Linear models for Handwritten Digits Classification
 
 Implemented Binary and multiclass Logistic Regression on MNIST dataset. 
